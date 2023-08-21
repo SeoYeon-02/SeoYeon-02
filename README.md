@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-F09820?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=OpenCV&logoColor=white">
   
   
   
@@ -17,5 +18,3 @@
   
 ![SeoYeon-02's github stats](https://github-readme-stats.vercel.app/api?username=SeoYeon-02&show_icons=true)
   </div>
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python?style=?style=flat&logo=flat&logo=python&logoColor=#3776AB"/></a>
